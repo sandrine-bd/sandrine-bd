@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/sandrine-bd/portfolio)
 
-- 🌱 I’m currently learning **HTML, CSS, GIT, Bootstrap**
+- 🌱 I’m currently learning **HTML, CSS, GIT, Bootstrap, JavaScript**
 
 - 📄 Know about my experiences: digital communication, video production
   
