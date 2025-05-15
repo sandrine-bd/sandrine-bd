@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sandrine</h1>
 <h3 align="center">A passionate new developer from France</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/sandrine-bd/portfolio)
+- 🌱 I’m currently learning:
+    - Programming langages: **HTML, CSS, JavaScript, C# .NET, Java, PHP**
+    - Frameworks: **Angular, Bootstrap, Laravel, Vue.JS**
+    - System: **GNU/Linux**
+    - Tools: **GIT, Figma, Notion**
 
-- 🌱 I’m currently learning **HTML, CSS, GIT, Bootstrap, JavaScript**
-
-- 📄 Know about my experiences: digital communication, video production
+- 📄 Know about my experiences: digital communication, movie production, UI/UX, project and event management, journalism.
   
-- ⚡ Fun fact: I love bike touring
+- ⚡ Fun fact: I love bike touring, I travelled across 4 continents for one year 🚲🏕️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
