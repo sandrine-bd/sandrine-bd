@@ -7,7 +7,7 @@
     - System: **GNU/Linux**
     - Tools: **GIT, Figma, Notion**
 
-- 📄 Know about my experiences: digital communication, movie production, UI/UX, project and event management, journalism.
+- 📄 Know about my experiences: digital communication, movie production, project and event management, journalism.
   
 - ⚡ Fun fact: I love bike touring, I travelled across 4 continents for one year 🚲🏕️
 
