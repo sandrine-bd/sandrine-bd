@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandrine</h1>
 <h3 align="center">A passionate new developer who loves people and art</h3>
 
-- 📄 Know about my experiences [digital communication, media arts, movie production, project and event management, journalism](digital communication, media arts, movie production, project and event management, journalism)
+- 📄 Know about my experiences : digital communication, media arts, movie production, project and event management, journalism.
 
 - ⚡ Fun fact **I love bike touring and outdoors, I travelled across 4 continents for one year 🚲🏕️**
 
