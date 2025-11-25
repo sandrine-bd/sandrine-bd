@@ -3,7 +3,7 @@
 
 - 📄 Experiences: digital communication, media arts, movie production, project and event management, journalism.
 
-- ⚡ Fun fact: **I love bike touring and outdoors, I travelled across 4 continents for one year 🚲🏕️**
+- ⚡ Fun fact: I love bike touring and outdoors, I travelled across 4 continents for one year 🚲🏕️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
