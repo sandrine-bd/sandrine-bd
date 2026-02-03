@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandrine</h1>
-<h3 align="center">A passionate new developer who loves people and art</h3>
+<h3 align="center">A passionate new developer who loves challenges</h3>
 
 - 📄 Experiences: digital communication, media arts, movie production, project and event management.
 
